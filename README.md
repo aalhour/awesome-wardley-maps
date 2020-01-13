@@ -23,7 +23,7 @@ This is a list of useful Wardley mapping resources. Contributions welcome! Read 
 ## Quick Start
 
 - [Investing in innovation](https://www.youtube.com/watch?v=Gfq3ocmadZo&list=PLP0vnsXbJsRVkWG7pjboonlrbISxtSN9I) - How situational awareness can put your business on the map (5:51).
-- [My basics for business strategy](https://medium.com/hackernoon/my-basics-for-mapping-a-business-5b20f364b216) - in 11 diagrams by Simon Wardley.
+- [My basics for business strategy](https://medium.com/hackernoon/my-basics-for-mapping-a-business-5b20f364b216) - In 11 diagrams by [Simon Wardley](https://twitter.com/swardley).
 
 ## Community
 
@@ -34,14 +34,15 @@ This is a list of useful Wardley mapping resources. Contributions welcome! Read 
 ## Reading
 
 - [Wardley maps - Topographical intelligence in business](https://medium.com/wardleymaps) - Creative Commons book by [Simon Wardley](https://twitter.com/swardley).
-- [Mapping Glossary](https://community.wardleymaps.com/t/mapping-glossary/280)
+  - [PDF and .mobi e-book (Kindle) download](https://github.com/andrewharmellaw/wardley-maps-book/releases).
+- [Glossary](https://community.wardleymaps.com/t/mapping-glossary/280)
 - [Wardleypedia](http://wardleypedia.org/mediawiki/index.php/Main_Page) - A Wiki Encyclopedia dedicated to the strategy mapping techniques pioneered by Simon Wardley.
 - [Wardley map](https://en.wikipedia.org/wiki/Wardley_map) - Wikipedia entry.
 
 ## Videos
 
 - [Wardley Maps](https://www.youtube.com/c/WardleyMaps) - Community YouTube channel and [playlists](https://www.youtube.com/channel/UCZ9-K9BLFozmmvmWzjyjkow/playlists).
-- [Getting Strategic on Peace and Justice](https://vimeo.com/363571089) - A visually beautiful and engaging animation by [Sue Borchardt](https://vimeo.com/researchartist).
+- [Getting Strategic on Peace and Justice](https://vimeo.com/363571089) - A visually beautiful and engaging animation by [Sue Borchardt](https://vimeo.com/researchartist) (5:39).
 
 ## Courses
 
@@ -66,21 +67,31 @@ Blog posts and other interesting examples of Wardley maps and deriatives.
 
 ## Templates
 
-- [Wardley Mapping Tools and Techniques](https://hiredthought.com/2017/10/11/wardley-mapping-tools-and-techniques/) - A semi-serious reflection on the problem space of tools for mapping, and then a fun overview of all sorts of mapping tools and techniques, informed by discussion and sharing that took place at the inaugural Map Camp.
+- [Wardley Mapping Tools and Techniques](https://hiredthought.com/2017/10/11/wardley-mapping-tools-and-techniques/) - A semi-serious reflection on the problem space of tools for mapping, and an overview of all sorts of mapping tools and techniques.
+
+### Mapping
+
 - [Wardley Maps in draw.io](https://juliusgamanyi.com/2019/03/25/wardley-maps-in-drawio/) - How-to guide with animations and a collection of open source Wardley map icons.
 - [wardley-omnigraffle](https://github.com/harrylove/wardley-omnigraffle) - Wardley mapping stencils for OmniGraffle.
 - [Wardley Maps in LaTeX](https://github.com/latticecut/Wardley_Chapter2_Finding_a_path) - Figures 8 and 11 from the book by Simon Wardley to demonstrate drawing Wardley Maps in LaTeX.
 - [Figma Mapping Template](https://community.wardleymaps.com/t/figma-mapping-template/487) - A mapping template for Figma.
 - [RealtimeBoard (Miro) Wardley Mapping Template](https://miro.com/blog/wardley-maps-whiteboard-canvas/) - How-to Guide on mapping using this template.
 - [yEd Palette](https://github.com/colugo/yed-wardley) - Wardley maps palette for yEd.
+
+### Doctrine Assessement
+
 - [Doctrine Grid Tool](https://justin.stach.uk/doctrine_grid_tool) - Based on Google Forms and Google Sheets.
 
 ## Apps
 
-Open source Wardley mapping applications.
+### Mapping
 
 - [Atlas2](https://github.com/LeadingEdgeForum/atlas2) - Open source mapping tool. Hosted version available [here](https://atlas2.wardleymaps.com/).
-- [OnlineWardleyMaps](https://github.com/damonsk/onlinewardleymaps) - Online open source mapping tool.
+- [OnlineWardleyMaps](https://github.com/damonsk/onlinewardleymaps) - Online open source mapping tool. Hosted version available [here](https://onlinewardleymaps.com/).
+
+### Doctrine Assessement
+
+- [Doctrine](https://github.com/cdaniel/doctrine/) - A simple tool for visualising how competitive a company is in light of Wardley's doctrine. Hosted version available [here](https://doctrine.wardleymaps.com/).
 
 ## Events
 
@@ -88,13 +99,21 @@ Open source Wardley mapping applications.
 
 ## Meetups
 
-- [Wardley Mapping in Belgium](https://www.meetup.com/Wardley-Mapping-In-Belgium/) - IRL Meetups on Belgian territory
-- [Wardley Mapping in Belgrade, Serbia](https://www.meetup.com/map-meetup-belgrade/) - IRL Meetups in Belgrade, Serbia
-- [Wardley Mapping in Cologne, Germany](https://www.meetup.com/New-Business-Strategies-Wardley-Maps-OODA-Loops-and-more/) - IRL Meetups in Cologne, Germany
-- [Wardley Mapping in Hamburg, Germany](https://www.meetup.com/Strategic-Business-Map-Club-Hamburg/) - IRL Meetups in Hamburg, Germany
-- [Wardley Mapping in Munich, Germany](https://www.meetup.com/Wardley-Mapping-Community-Muenchen/) - IRL Meetups in Munich, Germany
-- [Wardley Mapping in Amsterdam, Netherlands](https://www.meetup.com/nl-NL/Strategic-Mapping-Meetup-AMS/) - IRL Meetups in Amsterdam, Netherlands
-
+- Europe
+  - Belgium
+    - [Antwerp](https://www.meetup.com/Wardley-Mapping-In-Belgium/)
+  - Germany
+    - [Cologne](https://www.meetup.com/New-Business-Strategies-Wardley-Maps-OODA-Loops-and-more/)
+    - [Hamburg](https://www.meetup.com/Strategic-Business-Map-Club-Hamburg/)
+    - [Munich](https://www.meetup.com/Wardley-Mapping-Community-Muenchen/)    
+  - Netherlands
+    - [Amsterdam](https://www.meetup.com/nl-NL/Strategic-Mapping-Meetup-AMS/)
+  - Serbia
+    - [Belgrade](https://www.meetup.com/map-meetup-belgrade/)
+- USA
+  - California
+    - [San Diego](https://www.meetup.com/San-Diego-Business-Strategy-Meetup-Group/)
+  
 ## Workshops
 
 - [Wardley Maps Battle Camp](https://github.com/simalexan/battlecamp) - Workshop rules, cards and materials.
